@@ -97,6 +97,7 @@ Example prompt:
 
 ```text
 Get the current weather for London and recommend activities based on the conditions.
+```
 
 ### 2. No-Tools Agent
 
